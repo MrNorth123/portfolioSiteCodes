@@ -1,0 +1,57 @@
+Email: abc@g.com
+Text: abcde
+
+Email: a@g.com
+Text: deneme
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: a@g.com
+Text: aaa
+
+Email: a@g.com
+Text: aaa
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
+Email: None
+Text: None
+
